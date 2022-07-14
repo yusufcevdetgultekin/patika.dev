@@ -1,2 +1,2 @@
 # patika.dev
-Ödevler
+_Python Ödevleri_
